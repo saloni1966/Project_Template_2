@@ -1,4 +1,3 @@
-
 In Class 23, you have learned the concept of object-oriented programming and physics
 engines. In this project, you will practice the concepts learned in the class to create Class
 and objects for the player, computer, playerbase & computerbase.
